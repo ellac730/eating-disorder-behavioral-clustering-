@@ -14,9 +14,13 @@ This study applies K-means clustering to eating-related questionnaire responses 
 
 ## Dataset
 
-The dataset was originally published by Hasan et al. (2025) and is publicly available through Mendeley Data.
+The dataset used in this study was originally published by Hasan, Hosen, Ahad, and Oyshi (2025), Dataset of Neurobehavioral Influences on Eating Disorder Perceptions Among Bangladeshi University Students.
 
 Original dataset: https://doi.org/10.17632/64v6ym37dw.1
+
+The original dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+The original dataset is redistributed here with attribution to its creators. Data preprocessing, numerical encoding, and construction of behavioral composites were performed as part of the present study's analysis.
 
 ## Methods
 
